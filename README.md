@@ -1,5 +1,5 @@
 # Chess-Engine
-This is a custom designed Chess Engine that uses a combination of the mini-max algorithm, and a convolutional neural network to analyze a chess board and make an intelligent move. When running the program, the player can play against this engine to evaluate its performance.
+Created a custom designed Chess Engine that uses a combination of the mini-max algorithm, and a convolutional neural network to evaluate and execute strategic moves on the chessboard. When running the program, the player can both play against this engine, or train a new model based on changes they make to the script.
 
 ## Instructions
 To test the engine yourself, clone this repository and in your terminal run the python script. When you run the script, you can choose to train a new model, or play against the current model saved in this repository. This way if you would like to make any changes, you can easily retrain the model. To make a move on the chess board use standard coordinate notation.  The required installations can be found in the requirements.txt file.
