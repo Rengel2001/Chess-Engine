@@ -1,0 +1,7 @@
+python 3.10.11
+chess
+python-chess
+torch
+numpy
+zstandard
+pygame
